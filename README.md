@@ -19,4 +19,4 @@ See LICENSE file. You can freely use these codes (the "Software") subject to the
 
 [1] P. Triverio, "Vector Fitting", in P. Benner, S. Grivet-Talocia, A. Quarteroni, G. Rozza, W. H. A. Schilders, L. M. Silveira (Eds.), "Handbook on Model Order Reduction", De Gruyter (to appear).
  
-Copyright 2019 Piero Triverio, [www.modelics.org]
+Copyright 2019 Piero Triverio, (www.modelics.org)

@@ -4,6 +4,7 @@ This is an open-source implementation of the real-valued Fast VF algorithm [2] d
 
 ## References
 [1] P. Triverio, "Vector Fitting", in P. Benner, S. Grivet-Talocia, A. Quarteroni, G. Rozza, W. H. A. Schilders, L. M. Silveira (Eds.), "Handbook on Model Order Reduction", De Gruyter (to appear).
+
 [2] D. Deschrijver, M. Mrozowski, T. Dhaene, and D. De Zutter, "Macromodeling of multiport systems using a fast implementation of the vector fitting method", IEEE Microwave and wireless components letters, 18(6), 2008, pp.383-385.
 
 ## License

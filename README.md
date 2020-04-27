@@ -4,7 +4,7 @@ Codes associated with the book chapter [1]. This includes:
 - a real-valued implementation of the Fast Vector Fitting algorithm [2]
 - some examples
 
-Author: [Piero Triverio](piero.triverio@utoronto.ca)
+Author: [Piero Triverio](<piero.triverio@utoronto.ca>)
 
 University of Toronto, (www.modelics.org)
 

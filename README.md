@@ -1,4 +1,4 @@
-# Vector Fitting codes from the book "Handbook of Model Order Reduction" [1]
+# Vector Fitting codes from the book "Model Order Reduction" [1]
 
 Codes associated with the book chapter [1]. This includes:
 - a real-valued implementation of the Fast Vector Fitting algorithm [2]
